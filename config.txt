@@ -1,0 +1,6 @@
+token= NTE1OTE1MTA0MDgxMTQ5OTc0.DtsQ3A.omk1eTiA4Dk22hLpRXfo4vhLwpU
+owner= 388520564446330891
+prefix= 4
+game= 4play
+stayinchannel= false
+songinstatus= false
